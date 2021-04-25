@@ -6,11 +6,10 @@ which will be required by the public transport like Bus to arrive at the Bus Sto
 <br>
 <table>
   <tr>
-    <td><img src="ss/ss1.jpg" width=300 height=400></td>
-    <td><img src="ss/ss2.jpg" width=300 height=400></td>
-    <td><img src="ss/ss3.jpg" width=300 height=400></td>
-    <td><img src="ss/ss4.jpg" width=300 height=400></td>
-    <td><img src="ss/ss5.jpg" width=300 height=400></td>
+    <td><img src="ss/ss1.jpg" width=300 height=450></td>
+    <td><img src="ss/ss2.jpg" width=300 height=450></td>
+    <td><img src="ss/ss3.jpg" width=300 height=450></td>
+    <td><img src="ss/ss4.jpg" width=300 height=450></td>
   </tr>
 </table>
  
